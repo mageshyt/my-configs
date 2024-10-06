@@ -1,0 +1,1 @@
+/Users/magesh/fig-export/dotfiles/dotfile.fish

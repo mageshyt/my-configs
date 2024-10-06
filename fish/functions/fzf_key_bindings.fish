@@ -1,0 +1,1 @@
+/Users/magesh/.fzf/shell/key-bindings.fish
